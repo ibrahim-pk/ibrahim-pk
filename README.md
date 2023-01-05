@@ -4,25 +4,19 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
+[<p align="center"><img height="75" src="https://github.com/ibrahim-pk/ibrahim-pk/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/md-ibrahim-pk-332846198/)[<img height="75" src="https://github.com/ibrahim-pk/ibrahim-pk/blob/main/images/icons/Facebook.png">](https://web.facebook.com/emonahmed.pk)
 
 <br />
 
 ## :eyes: Current overview
 
-<div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Mir Hussain's Dev Card"/></a>
-</div>
+### 🔭Now I’m studying -Computer Science And Telecommunication Engineering Dept at Noakhali Science And Technology University.
 
-### 🔭 I’m working - In Programming Hero.
-
-### 🌱 I’m exploring - Advance motion graphics for web.
+### 🌱 I’m exploring - Advance knowledge for web.
 
 ### 👯 I’m looking - To collaborate on open source projects.
 
 ### 🤔 I’m trying - To help people learn web development.
-
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
 
 <br />
 
@@ -30,14 +24,14 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
+<img src="https://github.com/ibrahim-pk/ibrahim-pk/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/ibrahim-pk/ibrahim-pk/blob/main/images/icons/css.png"/>
+<img src="https://github.com/ibrahim-pk/ibrahim-pk/blob/main/images/icons/Bootsrap.png"/>
+<img src="https://github.com/ibrahim-pk/ibrahim-pk/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/ibrahim-pk/ibrahim-pk/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/ibrahim-pk/ibrahim-pk/blob/main/images/icons/react.png"/>
+<img src="https://github.com/ibrahim-pk/ibrahim-pk/blob/main/images/icons/node.png"/>
+<img src="https://github.com/ibrahim-pk/ibrahim-pk/blob/main/images/icons/express.png"/>
 </p><br/>
 
 ## :book: My recent blog posts
@@ -52,6 +46,3 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mir-hussain&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" />
-</p>
