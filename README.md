@@ -1,4 +1,4 @@
-<a href="https://i.ibb.co/6njkJH9/Banner-1.png"><img width="100%" height="100%" src="images/Banner.png"/></a>
+<a href="https://ibb.co/WvbwF0VH"><img width="100%" height="100%" src="images/cover-pic.png"/></a>
 </br>
 
 <p align="center">
