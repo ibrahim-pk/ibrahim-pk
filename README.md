@@ -1,4 +1,6 @@
-![I am a Junior full stack web developer. ](https://github.com/ibrahim-pk/ibrahim-pk/blob/main/images/github-cover.png)
+![I am a Junior full stack web developer. ](https://github.com/user-attachments/assets/a2b68254-2dfc-4a7d-bb96-c9267d06e904)
+
+
 
 ## :mailbox: Reach me out
 
