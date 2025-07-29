@@ -41,18 +41,9 @@
 
 <br />
 <p align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
- <p>
- <p>
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=Tanmoy-Parvez&theme=react&hide_border=true&background=161C27&stroke=0D1117&fire=fb8c00&sideLabels=fff&currStreakNum=fff&ring=fff&currStreakLabel=fff&sideNums=fff" style="height: 200px; width: 45%;" />
- </p>
- <p>
-   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ibrahim-pk" alt="GitHub Streak" /></a>
- </p>
- <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-pk&theme=default&show_icons=true&hide_border=true&count_private=true" alt="ibrahim-pk's GitHub Stats" />
- </p>
-  
- </p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Tanmoy-Parvez&theme=react&hide_border=true&background=161C27&stroke=0D1117&fire=fb8c00&sideLabels=fff&currStreakNum=fff&ring=fff&currStreakLabel=fff&sideNums=fff" style="height: 200px; width: 45%;" /> 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ibrahim-pk" alt="GitHub Streak" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=ibrahim-pk&theme=default&show_icons=true&hide_border=true&count_private=true" alt="ibrahim-pk's GitHub Stats" />
 
 </p>
 
