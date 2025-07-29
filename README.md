@@ -1,6 +1,6 @@
 ![I am a Junior full stack web developer. ](https://github.com/user-attachments/assets/a2b68254-2dfc-4a7d-bb96-c9267d06e904)
 
-
+<img width="full" height="500" alt="image" src="https://github.com/user-attachments/assets/a2b68254-2dfc-4a7d-bb96-c9267d06e904" />
 
 ## :mailbox: Reach me out
 
