@@ -1,47 +1,71 @@
-![I am a Junior full stack web developer. ](https://github.com/user-attachments/assets/a2b68254-2dfc-4a7d-bb96-c9267d06e904)
+<a href="https://i.ibb.co/6njkJH9/Banner-1.png"><img width="100%" height="100%" src="images/Banner.png"/></a>
+</br>
 
-## :mailbox: Reach me out
-
-<br />
-
-[<p align="center"><img height="75" src="https://github.com/ibrahim-pk/ibrahim-pk/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/md-ibrahim-pk-332846198/)[<img height="75" src="https://github.com/ibrahim-pk/ibrahim-pk/blob/main/images/icons/Facebook.png">](https://web.facebook.com/emonahmed.pk)
-
-<br />
-
-## :eyes: Current overview
-
-### 🔭Now I’m studying -Computer Science And Telecommunication Engineering Dept at Noakhali Science And Technology University.
-
-### 🌱 I’m exploring - Advance knowledge for web.
-
-### 👯 I’m looking - To collaborate on open source projects.
-
-### 🤔 I’m trying - To help people learn web development.
-
-<br />
-
-## :computer: Technologies that I know
-
-<br>
 <p align="center">
-<img src="https://github.com/ibrahim-pk/ibrahim-pk/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/ibrahim-pk/ibrahim-pk/blob/main/images/icons/css.png"/>
-<img src="https://github.com/ibrahim-pk/ibrahim-pk/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/ibrahim-pk/ibrahim-pk/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/ibrahim-pk/ibrahim-pk/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/ibrahim-pk/ibrahim-pk/blob/main/images/icons/react.png"/>
-<img src="https://github.com/ibrahim-pk/ibrahim-pk/blob/main/images/icons/node.png"/>
-<img src="https://github.com/ibrahim-pk/ibrahim-pk/blob/main/images/icons/express.png"/>
-</p><br/>
+<img height="200" src="images/Hello World.gif"/>
+</p>
 
-## :book: My recent blog posts
+<h1 align="center">I'm Ibrahim Pk</h1>
+<h5 align="center">CP | Full Stack | NodeJS | TS | ReactJS | NextJS | |MongoDB | MySql | AWS | CI/CD</h5>
 
-<!-- BLOG-POST-LIST:START -->
-- [Common interview questions that you need to know as a junior JavaScript developer.](https://dev.to/mirhussain/common-interview-questions-that-you-need-to-know-as-a-junior-javascript-developer-29a6)
-- [What the heck is JSX in React.](https://dev.to/mirhussain/what-the-heck-is-jsx-in-react-3f0a)
-- [A cleaner approach to write JavaScript &lpar;Bonus tips in the end.&rpar;](https://dev.to/mirhussain/a-cleaner-approach-to-write-javascript-bonus-tips-in-the-end-58ng)
-<!-- BLOG-POST-LIST:END -->
+<br/>
 
-## :chart_with_upwards_trend: Current Stats
+## :computer: Technologies I am proficient in\_
+
+<br/>
+<p align="center">
+<img height="60" src="images/technologies/HTML5.png"/>
+<img height="60" src="images/technologies/CSS3.png"/>
+<img height="60" src="images/technologies/TAILWIND.png"/>
+<img height="60" src="images/technologies/BOOTSTRAP.png"/>
+<img height="60" src="images/technologies/SASS.png"/>
+<img height="60" src="images/technologies/JS.png"/>
+<img height="60" src="images/technologies/TS.png"/>
+<img height="60" src="images/technologies/REDUX.png"/>
+<img height="60" src="images/technologies/REACT.png"/>
+</p>
+<p align="center">
+<img height="60" src="images/technologies/NEXTJS.png"/>
+<img height="60" src="images/technologies/FIREBASE.png"/>
+<img height="60" src="images/technologies/NODEJS.png"/>
+<img height="60" src="images/technologies/EXPRESSJS.png"/>
+<img height="60" src="images/technologies/MONGODB.png"/>
+<img height="60" src="images/technologies/MONGOOSE.png"/>
+<img height="60" src="images/technologies/PRISMA.png"/>
+<img height="60" src="images/technologies/MATERIAL UI.png"/>
+<img height="60" src="images/technologies/ANTD.png"/>
+</p>
+<br/>
+
+## :chart_with_upwards_trend: Current Statistical Overview\_
 
 <br />
+<p align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tanmoy-Parvez&theme=react&hide_border=true&background=161C27&stroke=0D1117&fire=fb8c00&sideLabels=fff&currStreakNum=fff&ring=fff&currStreakLabel=fff&sideNums=fff" style="height: 200px; width: 45%;" />
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ibrahim-pk" alt="GitHub Streak" /></a>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-pk&theme=default&show_icons=true&hide_border=true&count_private=true" alt="ibrahim-pk's GitHub Stats" />
+
+</p>
+
+<br/>
+
+## :mailbox: Reach Out to Me\_
+
+<br/>
+
+**_<p align="center"> [<img height="50" src="images/social-medias/LINKEDIN.png">](https://www.linkedin.com/in/ibrahimpk220/)&nbsp;&nbsp;&nbsp;&nbsp; [<img height="50" src="images/social-medias/FACEBOOK.png">](https://www.facebook.com/pk.ibrahim.852995)&nbsp;&nbsp;&nbsp;&nbsp; </p>_**
+
+<br/>
+
+## 👁‍🗨 Current Overview\_
+
+## 👨‍💻 About Me
+- 👯 I’m open to collaborating on **Open Source MERN Stack Projects**
+- 🤝 I love helping others learn **Web Development** and grow in tech
+- 💼 I’m a **MERN Stack Web Developer** with a passion for clean UI and efficient backend
+- ⚡ Fun Fact: I’m hooked on **Tech Tips Reels** and enjoy exploring **Motion Graphics**
+
+<br/>
+
+</p>
